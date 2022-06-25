@@ -1,2 +1,3 @@
-• Improve Vulkan Rendering
-• Improve Any Bugs for Android 12L
+  - Added updateJson support   
+  - Improved for Android 12L
+  - Added Tweaks.sh
