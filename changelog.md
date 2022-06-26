@@ -1,3 +1,4 @@
+  v3.0.2 Updates By FederatorX
   - Added updateJson support   
   - Improved for Android 12L
   - Improved Vulkan Rendering
