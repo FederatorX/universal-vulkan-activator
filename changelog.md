@@ -4,5 +4,5 @@
   - Fixed any bugs
   - Added Tweaks.sh
 
-   𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻
+  𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻
   - Zephyrus Injector Release soon.
