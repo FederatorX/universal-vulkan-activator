@@ -7,4 +7,5 @@
   - Added Tweaks.sh
 
   𝗠𝗼𝗿𝗲 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻
+  - Coming soon Universal Vulkan Activator v3.0.4
   - Zephyrus Injector Release soon.
